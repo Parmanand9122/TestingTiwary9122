@@ -32,7 +32,7 @@ public class TestCustomer{
 	    Login Lo=new Login(driver);
 	    Lo.EnterText("Selenium");
 	    Lo.Click("");
-		System.out.println("Successfully laucnh broswer");
+		System.out.println("Successfully laucnh broswer");//
 		//Lo.EnterText("");
 		
 		
