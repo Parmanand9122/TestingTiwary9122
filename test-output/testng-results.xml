@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-01-30T09:52:47 IST" name="Default suite" finished-at="2025-01-30T09:53:21 IST" duration-ms="34705">
+    <groups>
+    </groups>
+    <test started-at="2025-01-30T09:52:47 IST" name="Default test" finished-at="2025-01-30T09:53:21 IST" duration-ms="34705">
+      <class name="Tiwary123.Parma123.TestCustomer">
+        <test-method is-config="true" signature="LaunchBrowser()[pri:0, instance:Tiwary123.Parma123.TestCustomer@537f60bf]" started-at="2025-01-30T09:52:47 IST" name="LaunchBrowser" finished-at="2025-01-30T09:52:49 IST" duration-ms="2450" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LaunchBrowser -->
+        <test-method signature="Tiwary567()[pri:0, instance:Tiwary123.Parma123.TestCustomer@537f60bf]" started-at="2025-01-30T09:52:49 IST" name="Tiwary567" finished-at="2025-01-30T09:53:21 IST" duration-ms="31930" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Tiwary567 -->
+        <test-method is-config="true" signature="CloseBrowser()[pri:0, instance:Tiwary123.Parma123.TestCustomer@537f60bf]" started-at="2025-01-30T09:53:21 IST" name="CloseBrowser" finished-at="2025-01-30T09:53:21 IST" duration-ms="281" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+      </class> <!-- Tiwary123.Parma123.TestCustomer -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
